@@ -34,5 +34,5 @@ async function newFormHandler(event) {
   }
   
   document
-    .querySelector('.new-dish-form')
+    .querySelector('.new-client-form')
     .addEventListener('submit', newFormHandler);
